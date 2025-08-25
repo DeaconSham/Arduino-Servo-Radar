@@ -17,7 +17,7 @@ This project utilizes an Arduino UNO, an ultrasonic sensor, and a servo motor to
 ## Hardware Components
 
 *   Arduino UNO
-*   Servo Motor (e.g., SG90)
+*   Servo Motor (SG90)
 *   Ultrasonic Sensor (HC-SR04)
 *   16x2 LCD Display
 *   Potentiometer (10kΩ for LCD contrast)
@@ -29,8 +29,8 @@ This project utilizes an Arduino UNO, an ultrasonic sensor, and a servo motor to
 *   Arduino IDE
 *   Python 3
 *   **Python Libraries:**
-    *   `pygame`: Install using `pip install pygame`
-    *   `pyserial`: Install using `pip install pyserial`
+    *   `pygame`
+    *   `pyserial`
 
 ## Wiring Schematic
 
