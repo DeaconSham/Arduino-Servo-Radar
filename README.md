@@ -8,4 +8,4 @@ Project that uses an Arduino UNO, an ultrasonic sensor, and a servo motor to cre
 
 ### Wiring Schematic
 
-![alt text](schematic.png)
+![alt text](schematic.pdf)
